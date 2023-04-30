@@ -1,2 +1,2 @@
 # iplookup-website
-Repositori ini berisi kode sumber untuk website iplookup sederhana yang dibuat dengan bahasa pemrograman web modern, termasuk HTML, CSS, dan JavaScript. Repositori ini berisi kode yang dapat digunakan untuk membuat sebuah prototipe website iplookup sederhana dengan kemampuan melihat lokasi pengguna berdasarkan alamat IP-nya.
+This repository contains the source code for simple iplookup websites built in modern web programming languages, including HTML, CSS, and JavaScript. This repository contains code that can be used to create a simple iplookup website prototype with the ability to view a user's location by IP address.
