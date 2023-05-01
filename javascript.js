@@ -7,26 +7,26 @@ console.log(result);
 const output = document.getElementById("output_id");
 output.innerHTML = `CITY : ${result.city}\nCountry Name : ${result.country_name}
 Region : ${result.region}
-continent code : ${continent_code}
-Country : ${country}
-Country Area : ${country_area}
-Country Calling Code : ${country_calling_code}
-Country Capital : ${country_capital}
-Country Code : ${country_code}
-Country code Iso3 : ${country_code_iso3}
-Country Population : ${country_population}
-Country Tld : ${country_tld}
-Currency : ${currency}
-Currency Name : ${currency_name}
-EU : ${in_eu}
-Languages : ${languages}
-Latitude : ${latitude}
-Longitude : ${longitude}
-Network : ${network}
-ORGANISATION : ${org}
-POSTAL CODE : ${postal}
-TIMEZONE : ${timezone}
-UTC : ${utc_offset}
+continent code : ${result.continent_code}
+Country : ${result.country}
+Country Area : ${result.country_area}
+Country Calling Code : ${result.country_calling_code}
+Country Capital : ${result.country_capital}
+Country Code : ${result.country_code}
+Country code Iso3 : ${result.country_code_iso3}
+Country Population : ${result.country_population}
+Country Tld : ${result.country_tld}
+Currency : ${result.currency}
+Currency Name : ${result.currency_name}
+EU : ${result.in_eu}
+Languages : ${result.languages}
+Latitude : ${result.latitude}
+Longitude : ${result.longitude}
+Network : ${result.network}
+ORGANISATION : ${result.org}
+POSTAL CODE : ${result.postal}
+TIMEZONE : ${result.timezone}
+UTC : ${result.utc_offset}
  `;
         
     }
